@@ -39,6 +39,10 @@ h1 {
     background-color: yellow;
 }
 
+ul{
+    padding:20px; 
+}
+
 /* table */ 
 table{
     border-collapse: collapse;
