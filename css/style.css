@@ -25,7 +25,7 @@ h1 {
 }
 .subtitle{
     color: #99A3A4 ;
-    font-size: 16px;
+    font-size: 20px;
     font-weight: bolder;
 }
 .name{
@@ -35,7 +35,7 @@ h1 {
     margin-top:30px ;
 }
 .foto-tim{
-    width: 48%;
+    width: 450px;
     height:520px;
 }
 
@@ -63,7 +63,6 @@ thead{
 }
 .large{
     width: 50%;
-    ;
 }
 
 
