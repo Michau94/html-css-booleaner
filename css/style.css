@@ -34,6 +34,10 @@ h1 {
 .foto{
     margin-top:30px ;
 }
+.foto-tim{
+    width: 48%;
+    height:520px;
+}
 
 .important{
     background-color: yellow;
