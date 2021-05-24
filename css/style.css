@@ -1,14 +1,9 @@
-/* *{
-    box-sizing: border-box;
-    margin:0;
-    padding: 0; */
-
-/* header */
 header{
     height: 150px;
     width: auto;
     background-image: url(".././img/pattern.png");
     background-color:#2EABF2;
+    
     
 }
 .logo{
@@ -48,5 +43,27 @@ thead{background-color:#2EABF2 ;
 .blue {
     background-color: #69C8FE ;
 }
+
+
+/* Div inferiori */
+.monitor {
+    width: 300px;
+    height: 200px;
+    background-image: url("../img/monitor.jpg");
+    background-repeat: no-repeat;
+}
+.image-title{
+    color: white;
+    padding: 10px; 
+    
+}
+.screen{
+    width: 300px;
+    height: 200px;
+    background-image: url("../img/graph.jpg");
+    background-repeat: no-repeat;
+
+}
+
 
 
