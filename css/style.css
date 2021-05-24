@@ -36,7 +36,10 @@ a{
     background-color: yellow;
 }
 
-/* table */    
+/* table */ 
+table{
+    border-collapse: collapse;
+}   
 thead{
     background-color:#2EABF2 ;
     color: white;
@@ -48,6 +51,7 @@ thead{
 }
 .large{
     width: 50%;
+    ;
 }
 
 
