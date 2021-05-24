@@ -1,0 +1,35 @@
+*{
+    box-sizing: border-box;
+    margin:0;
+    padding: 0;
+}
+/* header */
+header{
+    height: 150px;
+    width: auto;
+    background-image: url(".././img/pattern.png");
+    background-color:#2EABF2;
+    
+}
+.logo{
+    width: 200px;
+    margin-top: 70px;
+}
+
+/* Section titolo */
+h1 {
+    font-family: 'Roboto', sans-serif;
+    font-size: 50px;
+}
+a{
+    text-decoration: none;
+}
+
+.subtitle{
+    color: lightgray;
+    font-size: 16px;
+    font-weight: 600;
+}
+.foto{
+    margin-top:30px ;
+}
