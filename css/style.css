@@ -39,11 +39,14 @@ a{
     background-color: yellow;
 }
 
-/* table */
+/* table */    
 thead{background-color:#2EABF2 ;
     color: white;
+    
 
 }
 .blue {
     background-color: #69C8FE ;
 }
+
+
